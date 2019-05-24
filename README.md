@@ -9,4 +9,4 @@ Dans ce repository, vous trouverez différents ressentis sur la première semain
 [Ressenti de Cynthia](cynthia.md)  
 [Ressenti de Jonathan](Jonathan.md)  
 [Ressenti de Lionel](Lionel.md)  
-[README].(README.md)  
+[README](README.md)  
