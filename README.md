@@ -4,7 +4,7 @@ Dans ce repository, vous trouverez différents ressentits sur la première semai
 
 *Notez que chaque membre ayant participé à ce projet est un nouvel apprenant de la formation BeCode et que donc, leur compétences sont limitées de par leur apprentissage.*  
 
-## Liens vers les différents ressentits  
+#### Liens vers les différents ressentits  
 
 [Ressentit de Cynthia](cynthia.md)  
 [Ressentit de Jonathan](Jonathan.md)  
