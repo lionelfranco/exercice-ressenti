@@ -22,7 +22,7 @@ On se demande si git a été développer par un cénobite.
 
 ![cénobite](https://tse3.mm.bing.net/th?id=OIP.rEt4gTFmLCKVBo9fs8EnFAHaEK&pid=15.1&P=0&w=300&h=300)
 
-##troisieme jours
+## Le troisieme jours
 
 On a travaillé sur les exercices git.
 La, on est rentré dans le gros du boulot.
@@ -30,7 +30,7 @@ Et on a pas été décu... On en a boufer...
 
 ![temps moderne](https://i.skyrock.net/4585/88464585/pics/3175960573_1_2_geyghJYN.gif)
 
-##quatrieme jour.
+## Le quatrieme jour.
 
 J'adore ca !
 
