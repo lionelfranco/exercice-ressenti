@@ -28,11 +28,11 @@ On a travaillé sur les exercices git.
 La, on est rentré dans le gros du boulot.
 Et on a pas été décu... On en a boufer...
 
-![temps moderne](https://gph.is/2cuENcN)
+![temps moderne](https://i.skyrock.net/4585/88464585/pics/3175960573_1_2_geyghJYN.gif)
 
 ##quatrieme jour.
 
 J'adore ca !
 
 
-![Love it](https://gph.is/2bgGT0s)
+![Love it](https://media1.giphy.com/media/2gXQ4RRP7icVjEwUqT/giphy.gif)
