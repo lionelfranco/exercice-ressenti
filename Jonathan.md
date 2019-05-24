@@ -37,8 +37,9 @@ J'adore ca !
 
 ![Love it](https://media1.giphy.com/media/2gXQ4RRP7icVjEwUqT/giphy.gif)
 
-#### Liens vers les différents ressentits  
+#### Liens vers les différents ressentis  
 
 [Ressentit de Cynthia](cynthia.md)  
 [Ressentit de Jonathan](Jonathan.md)  
 [Ressentit de Lionel](Lionel.md)  
+[README](README.md)  
