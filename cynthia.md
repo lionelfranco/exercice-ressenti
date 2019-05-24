@@ -8,7 +8,7 @@ L'entraide est naturelle et non forcée. J'avoue que j'ai parfois du mal à ce q
 * Et pour finir, je dirai que ma crainte est l'apprentissage de manière (trop) autodidacte. Malgré cela, j'essaye de faire des recherches ou de me renseigner sur des sites où les articles sont mis à jour, où je peux travailler ma culture générale mais surtout ma culture par rapport au web.
 Cela va être un travail à faire de manière personnelle pour, au final, acquérir les automatismes nécessaires à l'apprentissage en autodidacte.  
 
-#### Liens vers les différents ressentits  
+#### Liens vers les différents ressentis  
 
 [Ressentit de Cynthia](cynthia.md)  
 [Ressentit de Jonathan](Jonathan.md)  
