@@ -1,4 +1,4 @@
-#La premiere semaine.
+# La premiere semaine.
 ## La premiere journée
 
 J'ai vécu ma première journée chez becode de manière enthousiaste. j'avais hâte de me mettre derrière mon clavier.
@@ -26,12 +26,13 @@ On se demande si git a été développer par un cénobite.
 
 On a travaillé sur les exercices git.
 La, on est rentré dans le gros du boulot.
+Et on a pas été décu... On en a boufer...
 
-![temps moderne](http://gph.is/1gAja7w)
+![temps moderne](https://gph.is/2cuENcN)
 
 ##quatrieme jour.
 
 J'adore ca !
 
 
-![temps moderne](https://tenor.com/view/jadore-adorer-gif-10926310)
+![Love it](https://gph.is/2bgGT0s)
