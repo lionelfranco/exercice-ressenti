@@ -6,4 +6,4 @@ L'entraide est naturelle et non forcée. J'avoue que j'ai parfois du mal à ce q
 * Deuxièmement, pour ce qui concerne le début de l'apprentissage, un peu de mal, évidemment, avec Git. De quoi s'arracher les cheveux et perdre patience... Mais encore une fois, l'entraide est là et c'est ce qui nous permet de ne pas baisser les bras.
 
 * Et pour finir, je dirai que ma crainte est l'apprentissage de manière (trop) autodidacte. Malgré cela, j'essaye de faire des recherches ou de me renseigner sur des sites où les articles sont mis à jour, où je peux travailler ma culture générale mais surtout ma culture par rapport au web. 
-Cela va être un travail à faire de manière personnellement pour, au fina, acquérir les automatismes nécessaires à l'apprentissage en autodidacte.
+Cela va être un travail à faire de manière personnelle pour, au final, acquérir les automatismes nécessaires à l'apprentissage en autodidacte.
