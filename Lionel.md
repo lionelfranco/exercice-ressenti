@@ -46,3 +46,9 @@ En conclusion, je peux donc dire que jusqu'ici tout va bien. Je me sens bien, l'
 ***Jusqu'ici tout va bien !***  
 
 ![ToutVaBien](https://media1.tenor.com/images/8cb2b7fd09d8c0aa6b2cf9b933d720e8/tenor.gif?itemid=5030003)  
+
+#### Liens vers les différents ressentits  
+
+[Ressentit de Cynthia](cynthia.md)  
+[Ressentit de Jonathan](Jonathan.md)  
+[Ressentit de Lionel](Lionel.md)  
