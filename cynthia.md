@@ -13,3 +13,4 @@ Cela va être un travail à faire de manière personnelle pour, au final, acqué
 [Ressentit de Cynthia](cynthia.md)  
 [Ressentit de Jonathan](Jonathan.md)  
 [Ressentit de Lionel](Lionel.md)  
+[README](README.md)  
