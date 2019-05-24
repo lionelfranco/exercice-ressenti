@@ -6,6 +6,7 @@ Dans ce repository, vous trouverez différents ressentis sur la première semain
 
 #### Liens vers les différents ressentis  
 
-[Ressentit de Cynthia](cynthia.md)  
-[Ressentit de Jonathan](Jonathan.md)  
-[Ressentit de Lionel](Lionel.md)  
+[Ressenti de Cynthia](cynthia.md)  
+[Ressenti de Jonathan](Jonathan.md)  
+[Ressenti de Lionel](Lionel.md)  
+[README].(README.md)  
